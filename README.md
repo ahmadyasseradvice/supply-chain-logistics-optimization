@@ -1,6 +1,7 @@
 # Supply Chain Logistics & Fulfillment Performance Analysis
 **Google Data Analytics Professional Capstone Project**  
 **Author:** Ahmad Yasser  
+**Kaggle Notebook:** [View Interactive Project](https://www.kaggle.com/code/ahmadyasser7/notebook475541cc54)
 **Tools:** Python (Pandas, Seaborn), SQLite, Kaggle  
 
 ---
